@@ -1,0 +1,14 @@
+C:\Users\vladi\Desktop\MinecraftAutoClicker-master\AutoClicker\bin\Debug\AutoClicker.exe.config
+C:\Users\vladi\Desktop\MinecraftAutoClicker-master\AutoClicker\bin\Debug\AutoClicker.exe
+C:\Users\vladi\Desktop\MinecraftAutoClicker-master\AutoClicker\bin\Debug\AutoClicker.pdb
+C:\Users\vladi\Desktop\MinecraftAutoClicker-master\AutoClicker\obj\Debug\AutoClicker.csproj.AssemblyReference.cache
+C:\Users\vladi\Desktop\MinecraftAutoClicker-master\AutoClicker\obj\Debug\AutoClicker.csproj.SuggestedBindingRedirects.cache
+C:\Users\vladi\Desktop\MinecraftAutoClicker-master\AutoClicker\obj\Debug\AutoClicker.Main.resources
+C:\Users\vladi\Desktop\MinecraftAutoClicker-master\AutoClicker\obj\Debug\AutoClicker.MultipleInstances.resources
+C:\Users\vladi\Desktop\MinecraftAutoClicker-master\AutoClicker\obj\Debug\AutoClicker.NotRunning.resources
+C:\Users\vladi\Desktop\MinecraftAutoClicker-master\AutoClicker\obj\Debug\AutoClicker.Properties.Resources.resources
+C:\Users\vladi\Desktop\MinecraftAutoClicker-master\AutoClicker\obj\Debug\AutoClicker.ButtonInputs.resources
+C:\Users\vladi\Desktop\MinecraftAutoClicker-master\AutoClicker\obj\Debug\AutoClicker.csproj.GenerateResource.cache
+C:\Users\vladi\Desktop\MinecraftAutoClicker-master\AutoClicker\obj\Debug\AutoClicker.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Desktop\MinecraftAutoClicker-master\AutoClicker\obj\Debug\AutoClicker.exe
+C:\Users\vladi\Desktop\MinecraftAutoClicker-master\AutoClicker\obj\Debug\AutoClicker.pdb
