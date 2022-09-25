@@ -1,32 +1,32 @@
-Minecraft Auto Clicker
+Автоматический Кликер Minecraft
 
-* Be sure to go into options.txt in your .minecraft folder and set "pauseOnLostFocus" to "false"
-* Must be done with Minecraft closed
+* Обязательно зайдите в раздел "Параметры".txt в вашем .папку minecraft и установите для "pauseOnLostFocus" значение "false"
+* Должно быть сделано с закрытым Minecraft
 
-To access your .minecraft folder, open explorer and paste this into the address bar:
-* %appdata%\\.minecraft
+Чтобы получить доступ к вашему .папку minecraft, откройте проводник и вставьте это в адресную строку:
+* %appdata%\\.майнкрафт
 
-Alternatively, you can also do F3 + P in game until it says "Pause on lost focus: disabled"
+В качестве альтернативы вы также можете нажимать F3 + P в игре, пока не появится надпись "Пауза при потере фокуса: отключена".
 
-To Use:
+использовать:
 
-Line yourself up for whatever action you want to take and then bring up the menu. Go into the application and click "Start".
+Подготовьтесь к любому действию, которое вы хотите предпринять, а затем откройте меню. Зайдите в приложение и нажмите "Пуск".
 
-Once you click start, you will have 3 seconds to go into the game and exit the menu. When the countdown hits 0, the program will run and will auto tab you out of the game.
+Как только вы нажмете пуск, у вас будет 3 секунды, чтобы войти в игру и выйти из меню. Когда обратный отсчет достигнет 0, программа запустится и автоматически выведет вас из игры.
 
-When you want to stop, click "Stop" and it will stop the action.
+Когда вы захотите остановиться, нажмите "Стоп", и это остановит действие.
 
-中文版介绍
+Введение в китайскую версию
 
-使用前需要关闭`失去焦点时暂停游戏`选项，关闭方法如下：
-* 在游戏中按快捷键`F3 + P`，提示`失去焦点时暂停游戏：禁用`
+Перед использованием вам необходимо отключить опцию `Приостановить игру, когда вы теряете фокус`. Способ отключения следующий：
+* Нажмите сочетание клавиш "F3 + P" в игре, чтобы запросить "Приостановить игру, когда вы теряете фокус: отключить"
 
-或者
-* 在资源管理器的地址栏中输入`%appdata%\\.minecraft`
-* 打开`options.txt`，将`pauseOnLostFocus`设置为`fasle`
+или
+*Введите `%appdata%\\ в адресной строке проводника.майнкрафт`
+* Откройте опции.txt`, установите для `pauseOnLostFocus` значение `fasle'
 
-使用指南（以后台挂机钓鱼为例，与原文有所不同）：
+Руководство пользователя (возьмем в качестве примера фоновую рыбалку крючком, которая отличается от исходного текста)：
 
-* 打开游戏和点击程序，将游戏调整至所需状态（如手持鱼竿处于钓鱼的合适位置）
-* 切换回程序，选中`Right Click`和`Hold Click Button Down (For Mining)`，点击`Start`
-* 等待三秒，程序运行，开始后台自动钓鱼
+* Откройте игру и нажмите на программу, чтобы настроить игру на желаемое состояние (например, держать удочку в подходящем положении для рыбалки).
+* Вернитесь к программе, выберите "Щелкните правой кнопкой мыши" и "Удерживайте нажатой кнопку мыши (для майнинга)" и нажмите "Пуск".
+* Подождите три секунды, программа запустится, и запустите автоматическую рыбалку в фоновом режиме.
